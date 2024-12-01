@@ -13,3 +13,4 @@ Azure Table Storage and Azure Functions for storing and retrieving data.
 Deployment and configuration in Azure, including setting up the storage account, enabling static website hosting, and integrating functions for dynamic content.
 This project demonstrates my ability to build, deploy, and maintain cloud-based applications using Azure services.
 
+Here is the link: https://cloudresumestaticwebsite.z19.web.core.windows.net/
